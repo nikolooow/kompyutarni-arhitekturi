@@ -13,7 +13,7 @@
 
 ## Структура на репозиториума
 * [`config-01-budget-office/`](./config-01-budget-office/)
-* [`config-02-workstation/`](./config-02-workstation/)
+* config-02-workstation
 * [`config-03-gaming/`](./config-03-gaming/)
 * [`config-04-creative/`](./config-04-creative/)
 * [`config-05-server/`](./config-05-server/)
